@@ -4,7 +4,7 @@ public class message
 {
     //details of message
     // string > # of person sending the message
-    // string > the message & time received
+    // string > the message & time receive
     String num = new String(System.in);
     public message()
     {
